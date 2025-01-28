@@ -1,5 +1,5 @@
 # Git Practice Andrew Bao
-## [Article](https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/)\
+## [Article](https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/)
 
 Recently, an AI startup Deepseek released an LLM that challenged the current established giants in AI like OpenAI, Google, and Anthropic.
 Normally a release like this would be major but not groundbreaking but the difference here is Deepseek is relatively small project spearheaded
